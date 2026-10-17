@@ -26,7 +26,7 @@ Questions or concerns? Reading this Privacy Notice will help you understand your
 
 **What are your rights?** Depending on where you are located, you may have certain rights regarding your personal information. Because we do not collect personal information through the app, most of these rights will only apply to emails you send us. Learn more about your privacy rights below.
 
-**How do you exercise your rights?** By emailing us at [CONTACT EMAIL].
+**How do you exercise your rights?** By emailing us at juliecamara@gmail.com.
 
 ## TABLE OF CONTENTS
 
@@ -108,7 +108,7 @@ Because 27shots processes and stores your photos only on your device, your photo
 
 *In Short: No. We do not collect personal information from anyone, including children.*
 
-27shots can be used by people of all ages. The app does not collect personal information from any user, including children under 13 (or the equivalent minimum age in your jurisdiction). If a child contacts us by email, we will use the information only to respond and will then delete it. If you are a parent or guardian and believe your child has sent us personal information, please contact us at [CONTACT EMAIL] and we will delete it.
+27shots can be used by people of all ages. The app does not collect personal information from any user, including children under 13 (or the equivalent minimum age in your jurisdiction). If a child contacts us by email, we will use the information only to respond and will then delete it. If you are a parent or guardian and believe your child has sent us personal information, please contact us at juliecamara@gmail.com and we will delete it.
 
 ## 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -118,7 +118,7 @@ Because 27shots processes and stores your photos only on your device, your photo
 
 **Device permissions.** You can withdraw your permission for the app to use your camera or photo library at any time in your device's Settings.
 
-**Information you sent us.** Depending on where you live, you may have the right to request access to, correction of, or deletion of personal information you have sent us by email. To make a request, contact us at [CONTACT EMAIL].
+**Information you sent us.** Depending on where you live, you may have the right to request access to, correction of, or deletion of personal information you have sent us by email. To make a request, contact us at juliecamara@gmail.com.
 
 ## 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -149,4 +149,4 @@ We may update this Privacy Notice from time to time. The updated version will be
 If you have questions or comments about this notice, you may contact us at:
 
 Julie Camara
-[CONTACT EMAIL]
+juliecamara@gmail.com
