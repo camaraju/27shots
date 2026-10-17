@@ -148,5 +148,4 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may contact us at:
 
-Julie Camara
 juliecamara@gmail.com
